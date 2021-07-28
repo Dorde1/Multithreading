@@ -1,0 +1,26 @@
+D:\Apps\Wintec\2020 S2\App Dev\ConsoleApps\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.exe
+D:\Apps\Wintec\2020 S2\App Dev\ConsoleApps\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.deps.json
+D:\Apps\Wintec\2020 S2\App Dev\ConsoleApps\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.runtimeconfig.json
+D:\Apps\Wintec\2020 S2\App Dev\ConsoleApps\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.runtimeconfig.dev.json
+D:\Apps\Wintec\2020 S2\App Dev\ConsoleApps\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.dll
+D:\Apps\Wintec\2020 S2\App Dev\ConsoleApps\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.pdb
+D:\Apps\Wintec\2020 S2\App Dev\ConsoleApps\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.csprojAssemblyReference.cache
+D:\Apps\Wintec\2020 S2\App Dev\ConsoleApps\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.AssemblyInfoInputs.cache
+D:\Apps\Wintec\2020 S2\App Dev\ConsoleApps\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.AssemblyInfo.cs
+D:\Apps\Wintec\2020 S2\App Dev\ConsoleApps\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.csproj.CoreCompileInputs.cache
+D:\Apps\Wintec\2020 S2\App Dev\ConsoleApps\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.dll
+D:\Apps\Wintec\2020 S2\App Dev\ConsoleApps\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.pdb
+D:\Apps\Wintec\2020 S2\App Dev\ConsoleApps\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.genruntimeconfig.cache
+D:\Dorde\Bachelor\Second Year IT\Semester 2\Application Development\Multithreading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.exe
+D:\Dorde\Bachelor\Second Year IT\Semester 2\Application Development\Multithreading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.deps.json
+D:\Dorde\Bachelor\Second Year IT\Semester 2\Application Development\Multithreading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.runtimeconfig.json
+D:\Dorde\Bachelor\Second Year IT\Semester 2\Application Development\Multithreading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.runtimeconfig.dev.json
+D:\Dorde\Bachelor\Second Year IT\Semester 2\Application Development\Multithreading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.dll
+D:\Dorde\Bachelor\Second Year IT\Semester 2\Application Development\Multithreading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.pdb
+D:\Dorde\Bachelor\Second Year IT\Semester 2\Application Development\Multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.csproj.AssemblyReference.cache
+D:\Dorde\Bachelor\Second Year IT\Semester 2\Application Development\Multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.AssemblyInfoInputs.cache
+D:\Dorde\Bachelor\Second Year IT\Semester 2\Application Development\Multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.AssemblyInfo.cs
+D:\Dorde\Bachelor\Second Year IT\Semester 2\Application Development\Multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.csproj.CoreCompileInputs.cache
+D:\Dorde\Bachelor\Second Year IT\Semester 2\Application Development\Multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.dll
+D:\Dorde\Bachelor\Second Year IT\Semester 2\Application Development\Multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.pdb
+D:\Dorde\Bachelor\Second Year IT\Semester 2\Application Development\Multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.genruntimeconfig.cache
